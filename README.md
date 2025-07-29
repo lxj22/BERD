@@ -1,3 +1,3 @@
 # BERD
 
-Offical Code for BERD dataset.
+Official Code for the BERD dataset.
