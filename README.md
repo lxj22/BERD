@@ -1,3 +1,3 @@
 # BERD
 
-the code will be published soon......
+Offical Code for BERD dataset.
